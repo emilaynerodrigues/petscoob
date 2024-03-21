@@ -5,7 +5,7 @@ O Site da Clínica Veterinária e Petshop PetScoob é uma plataforma digital que
 
 ## Link de Acesso
 
-[![PetSboob](https://emilaynerodrigues.github.io/petscoob/)]
+[![PetSboob](https://emilaynerodrigues.github.io/petscoob/)](https://emilaynerodrigues.github.io/petscoob/)
 
 ## Funcionalidades Principais
 
