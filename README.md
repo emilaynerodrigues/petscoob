@@ -11,7 +11,7 @@ O Site da Clínica Veterinária e Petshop PetScoob é uma plataforma digital que
 
 1. **Descrição dos Serviços**: Apresenta detalhes sobre os serviços disponíveis na clínica veterinária e no petshop, como consultas veterinárias, banho e tosa, vacinação, cirurgias, entre outros.
 2. **Horário de Atendimento**: Informa os horários de funcionamento da clínica, incluindo dias da semana e períodos de abertura e fechamento.
-3. **Formas de Contato**: Mostra aos visitantes os meios para contato, como endereços eletrônicos e localiza~]ao fisíca do PetScoob.
+3. **Formas de Contato**: Mostra aos visitantes os meios para contato, como endereços eletrônicos e localização fisíca do PetScoob.
 
 ## Tecnologias Utilizadas
 
